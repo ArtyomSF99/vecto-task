@@ -1,0 +1,20 @@
+.trendingVideosContainer {
+  width: 100%;
+  padding-left: 80px;
+
+  .title {
+    color: #ffffff;
+    font-size: 2em;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  .slider {
+    margin-top: 40px;
+
+    div {
+      border: none;
+      outline: none;
+      cursor: pointer;
+    }
+  }
+}
